@@ -1,21 +1,37 @@
+# URLs удалено: 2028
 #EXTM3U
-#EXTINF:-1 tvg-id="UnknownRussia.ru@SD",Неизвестная Россия
-https://cdn.ntv.ru/unknown_russia/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@Plus1",НТВ +1
-https://cdn.ntv.ru/ntv1/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@Plus2",НТВ +2
-https://cdn.ntv.ru/ntv2/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@Plus4",НТВ +4
-https://cdn.ntv.ru/ntv4/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@Plus7",НТВ +7
-https://cdn.ntv.ru/ntv7/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@HD",НТВ HD
-https://cdn.ntv.ru/ntv0/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVLaw.ru@SD",НТВ Право
-https://cdn.ntv.ru/th_pravo/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVSeries.ru@SD",НТВ Сериал
-https://cdn.ntv.ru/th_serial/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVStyle.ru@SD",НТВ Стиль
-https://cdn.ntv.ru/th_style/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVHit.ru@SD",НТВ Хит
-https://cdn.ntv.ru/th_hit/playlist.m3u8
+#EXTINF:-1 tvg-id="8016" tvg-logo="http://epg.one/img2/8016.png" group-title="" ,#dabeiTV HD DE
+#EXTINF:-1 tvg-id="935" tvg-logo="http://epg.one/img2/935.png" group-title="" ,.black
+http://mfe01.cliptv.az/dash/Sony_Turbo_SD_PIVqhor567.ism/playlist.mpd
+#EXTINF:-1 tvg-id="311" tvg-logo="http://epg.one/img2/311.png" group-title="" ,.red
+http://193.25.8.59:8000/set
+#EXTINF:-1 tvg-id="516" tvg-logo="http://epg.one/img2/516.png" group-title="" ,.sci-fi
+http://176.118.197.125/SCI-FI/index.m3u8
+#EXTINF:-1 tvg-id="3705" tvg-logo="http://epg.one/img2/3705.png" group-title="" ,1 Music Channel RO
+#EXTINF:-1 tvg-id="8017" tvg-logo="http://epg.one/img2/8017.png" group-title="" ,1-2-3.tv HD DE
+#EXTINF:-1 tvg-id="103" tvg-logo="http://epg.one/img2/103.png" group-title="" ,100 % NEWS
+#EXTINF:-1 tvg-id="2061" tvg-logo="http://epg.one/img2/2061.png" group-title="" ,21TV AM
+#EXTINF:-1 tvg-id="2615" tvg-logo="http://epg.one/img2/2615.png" group-title="" ,24 HD
+#EXTINF:-1 tvg-id="11318" tvg-logo="http://epg.one/img2/11318.png" group-title="" ,24 Horas ES
+#EXTINF:-1 tvg-id="2578" tvg-logo="http://epg.one/img2/2578.png" group-title="" ,24 KZ
+http://tvcdn01.esilnet.kz/tv/24kz/index.m3u8
+#EXTINF:-1 tvg-id="3375" tvg-logo="http://epg.one/img2/3375.png" group-title="" ,24 TV HD LV
+#EXTINF:-1 tvg-id="3287" tvg-logo="http://epg.one/img2/3287.png" group-title="" ,2TV LT
+#EXTINF:-1 tvg-id="3380" tvg-logo="http://epg.one/img2/3380.png" group-title="" ,3 sport HD LV
+#EXTINF:-1 tvg-id="3381" tvg-logo="http://epg.one/img2/3381.png" group-title="" ,3 sport2 HD LV
+#EXTINF:-1 tvg-id="2351" tvg-logo="http://epg.one/img2/2351.png" group-title="" ,36.6
+#EXTINF:-1 tvg-id="2265" tvg-logo="http://epg.one/img2/2265.png" group-title="" ,360
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="6295" tvg-logo="http://epg.one/img2/6295.png" group-title="" ,360 TV HD LV
+#EXTINF:-1 tvg-id="8900" tvg-logo="http://epg.one/img2/8900.png" group-title="" ,4Ever Cinema HD
+#EXTINF:-1 tvg-id="2379" tvg-logo="http://epg.one/img2/2379.png" group-title="" ,4ever Music
+#EXTINF:-1 tvg-id="3994" tvg-logo="http://epg.one/img2/3994.png" group-title="" ,5 STARS HD IL
+#EXTINF:-1 tvg-id="9035" tvg-logo="http://epg.one/img2/9035.png" group-title="" ,5Sport 4K IL
+#EXTINF:-1 tvg-id="2682" tvg-logo="http://epg.one/img2/2682.png" group-title="" ,5Sport FHD IL
+#EXTINF:-1 tvg-id="3993" tvg-logo="http://epg.one/img2/3993.png" group-title="" ,5Sport Live FHD IL
+#EXTINF:-1 tvg-id="2372" tvg-logo="http://epg.one/img2/2372.png" group-title="" ,5TV AM
+#EXTINF:-1 tvg-id="5927" tvg-logo="http://epg.one/img2/5927.png" group-title="" ,5TV Plus HD AM
+#EXTINF:-1 tvg-id="6296" tvg-logo="http://epg.one/img2/6296.png" group-title="" ,8 TV HD LV
+#EXTINF:-1 tvg-id="2589" tvg-logo="http://epg.one/img2/2589.png" group-title="" ,A HABER
+#EXTINF:-1 tvg-id="3988" tvg-logo="http://epg.one/img2/3988.png" group-title="" ,A NEWS HD
+#EXTINF:-1 tvg-id="3961" tvg-logo="http://epg.one/img2/3961.png" group-title="" ,A2
